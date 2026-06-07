@@ -124,11 +124,7 @@ class ArpitSharma:
 ## 📊 &nbsp; GitHub Stats
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=arpitsharma2028&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F7B731&icon_color=F7B731&text_color=ffffff&count_private=true&include_all_commits=true" />
 <img width="49%" src="https://streak-stats.demolab.com?user=arpitsharma2028&theme=radical&hide_border=true&background=0D1117&stroke=F7B731&ring=F7B731&fire=FF6B6B&currStreakLabel=F7B731" />
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitsharma2028&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F7B731&text_color=ffffff&langs_count=8&count_private=true&include_all_commits=true" />
 
 </div>
 
