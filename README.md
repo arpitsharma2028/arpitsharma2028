@@ -12,6 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/Let's%20Connect-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpitsharma6105/)
 [![Instagram](https://img.shields.io/badge/Follow%20Me-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/arpitsharma2.0)
 [![GitHub](https://img.shields.io/badge/Explore%20My%20Repos-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arpitsharma2028?tab=repositories)
+[![Portfolio](https://img.shields.io/badge/View%20My%20Portfolio-%2300599C.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://arpitsharma2028.github.io/Arpit-Portfolio/index.html)
 [![Profile Views](https://komarev.com/ghpvc/?username=arpitsharma2028&style=for-the-badge&color=F7B731&label=PROFILE+VIEWS)](https://github.com/arpitsharma2028)
 
 </div>
@@ -27,6 +28,7 @@
 class ArpitSharma:
     institute = "Thapar Institute of Engineering & Technology 🎓"
     degree    = "B.E. Computer Engineering (2024 – 2028)"
+    portfolio = "https://arpitsharma2028.github.io/Arpit-Portfolio/ 🌐"
     langs     = ["C++ ⚡", "Python 🐍", "JavaScript 🌐"]
     stack     = ["React.js", "Node.js", "FastAPI", "PostgreSQL"]
     mantra    = "Ship it, measure it, improve it. Repeat."
@@ -61,6 +63,7 @@ class ArpitSharma:
 |---|---|---|
 | [**📚 DSA Manager**](https://github.com/arpitsharma2028/DSA_Manager) | Full-stack DSA tracking platform with **JWT auth**, smart question ingestion, spaced-repetition revisit system & analytics dashboard | `React.js` `Node.js` `PostgreSQL` |
 | [**📈 Stock Intelligence Dashboard**](https://github.com/arpitsharma2028/stock-data-intelligence-dashboard) | Real-time NSE stock visualiser with **Monte Carlo forecasting**, moving averages, Pearson correlation & Docker deployment | `FastAPI` `SQLite` `JavaScript` |
+| [**🚀 Smart Leetcode**](https://github.com/arpitsharma2028/SmartLeetcode) | Real-time coding platform with **Multiplayer Sparring**, Mock Interviews, and an AI Mentor (Gemini) for targeted hints | `React` `Node.js` `Supabase` |
 
 </div>
 
@@ -68,6 +71,7 @@ class ArpitSharma:
 
 [![DSA Manager Live](https://img.shields.io/badge/🌐%20DSA%20Manager%20--%20Live-00C49A?style=for-the-badge)](https://dsamanagerr.vercel.app/)
 [![Stock Dashboard Live](https://img.shields.io/badge/🌐%20Stock%20Dashboard%20--%20Live-F7B731?style=for-the-badge)](https://stock-dashboard-nro3.onrender.com)
+[![Smart Leetcode Live](https://img.shields.io/badge/🌐%20Smart%20Leetcode%20--%20Live-8A2BE2?style=for-the-badge)](https://minileetcode-1.onrender.com/)
 [![See All Repos](https://img.shields.io/badge/📂%20See%20All%20Repositories-%23181717.svg?style=for-the-badge)](https://github.com/arpitsharma2028?tab=repositories)
 
 </div>
@@ -89,6 +93,7 @@ class ArpitSharma:
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
 ### ⚙️ Backend & APIs
@@ -96,10 +101,13 @@ class ArpitSharma:
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-FF6B6B?style=for-the-badge&logo=postman&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 ### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
