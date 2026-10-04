@@ -138,18 +138,17 @@ class ArpitSharma:
 
 ---
 
-<!-- ╔══════════ SNAKE ══════════╗ -->
-## 🐍 &nbsp; Contribution Snake
+<!-- ╔══════════ CONTRIBUTION GRAPH ══════════╗ -->
+## 🟩 &nbsp; Contribution Graph
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arpitsharma2028/arpitsharma2028/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arpitsharma2028/arpitsharma2028/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/arpitsharma2028/arpitsharma2028/output/github-snake-dark.svg" />
-</picture>
+<h3><code>arpit@github ~ $ ./contributions.sh</code></h3>
+
+<img src="./contrib-heatmap.svg" width="860" alt="Arpit's GitHub contribution graph — auto-refreshed constant animation" />
 
 </div>
+
 
 ---
 
