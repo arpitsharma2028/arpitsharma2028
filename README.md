@@ -145,7 +145,7 @@ class ArpitSharma:
 
 <h3><code>arpit@github ~ $ ./contributions.sh</code></h3>
 
-<img src="./contrib-heatmap.svg" width="860" alt="Arpit's GitHub contribution graph — auto-refreshed constant animation" />
+<img src="https://raw.githubusercontent.com/arpitsharma2028/arpitsharma2028/output/contrib-heatmap.svg" width="860" alt="Arpit's GitHub contribution graph — auto-refreshed constant animation" />
 
 </div>
 
